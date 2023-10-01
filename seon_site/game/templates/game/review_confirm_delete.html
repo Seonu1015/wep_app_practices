@@ -9,21 +9,18 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
-        
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
+
     </head>
 
-    <body style="font-family: 'Hahmlet', serif;">
+    <body style="font-family: 'Gowun Dodum', sans-serif;">
         <div class="container mt-5">
-            <h1 style="font-family: 'Gasoek One', sans-serif;">리뷰 삭제</h1>
+            <h3>리뷰 삭제</h3>
             <!-- post를 쓰면 보안을 신경써라!!! -->
             <p>정말로 "{{object.title}}"의 리뷰를 삭제하시겠습니까??</p>
             <form method="post">
                 {% csrf_token %}
-                <button type="submit" class="btn btn-primary">삭제</button>
+                <button type="submit" class="btn btn-outline-dark">삭제</button>
             </form>
         </div>
     </body>

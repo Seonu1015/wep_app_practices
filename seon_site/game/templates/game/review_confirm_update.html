@@ -9,19 +9,20 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
+
     </head>
-    
-    <body>
+
+    <body style="font-family: 'Gowun Dodum', sans-serif;">
         <div class="container mt-5">
-            <h1 style="font-family: 'Gasoek One', sans-serif;">리뷰 수정</h1>
+            <h3>리뷰 수정</h3>
             <!-- post를 쓰면 보안을 신경써라!!! -->
             <form method="post">
                 {% csrf_token %}
                 <table>
                     {{form.as_table}}
                 </table>
-                <button type="submit" class="btn btn-primary">수정</button>
+                <button type="submit" class="btn btn-outline-dark">수정</button>
             </form>
         </div>
     </body>

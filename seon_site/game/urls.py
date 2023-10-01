@@ -1,5 +1,6 @@
 from django.urls import path
 from .views import (
+    HomeListView,
     ReviewListView,
     ReviewDetailView,
     ReviewCreateView,
@@ -8,7 +9,8 @@ from .views import (
 )
 
 urlpatterns = [
-    path('reviews/', ReviewListView.as_view(), name='review-list'),
+    path('', HomeListView.as_view(template_name='home/index.html'), name="home-index"),
+    path('reviews/', ReviewListView.as_view(template_name='game/review_list.html'), name='review-list'),
     path('review/<int:pk>/', ReviewDetailView.as_view(), name='review-detail'),
     path('review/new/', ReviewCreateView.as_view(), name='review-new'),
     path('review/<int:pk>/update/', ReviewUpdateView.as_view(), name='review-update'),

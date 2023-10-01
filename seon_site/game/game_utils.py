@@ -34,7 +34,7 @@ def get_game_detail(app_id):
     response = requests.get(base_url)
     data = response.json()
 
-    details = data[f"{int(app_id)}"]["data"]["short_description"]
+    details = data[str(app_id)]["data"]["short_description"]
     return details
 
 # print(get_game_detail(get_game_id("ELDEN RING")))
@@ -45,5 +45,5 @@ def get_game_image(app_id):
     response = requests.get(base_url)
     data = response.json()
 
-    game_image = data[f"{app_id}"]["data"]["header_image"]
+    game_image = data[str(app_id)]["data"]["header_image"]
     return game_image

@@ -7,8 +7,42 @@ from .models import Review
 from .forms import ReviewForm
 from .game_utils import get_game_id, get_game_trailer, get_game_detail, get_game_image
 
+class HomeListView(ListView):
+    model = Review
+    template_name = 'home/index.html'
+    context_object_name = 'review_data'
+
+    def get_queryset(self):
+        return Review.objects.order_by('-created_at')[:3]
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+
+        review_data = []
+        for review in context['review_data']:
+            app_id = get_game_id(review.title)
+            thumbnail_url = get_game_image(app_id)
+            review_data.append({'review': review, 'thumbnail_url': thumbnail_url})
+
+        context['review_data'] = review_data
+        return context
+
 class ReviewListView(ListView):
     model = Review
+    template_name = 'game/review_list.html'
+    context_object_name = 'review_data'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+
+        review_data = []
+        for review in context['review_data']:
+            app_id = get_game_id(review.title)
+            thumbnail_url = get_game_image(app_id)
+            review_data.append({'review': review, 'thumbnail_url': thumbnail_url})
+
+        context['review_data'] = review_data
+        return context
 
 class ReviewDetailView(DetailView):
     model = Review

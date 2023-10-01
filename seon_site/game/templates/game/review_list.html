@@ -9,44 +9,53 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
 
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap" rel="stylesheet">
     </head>
 
-    <body style="font-family: 'Hahmlet', serif;">
-        <div class="container mt-5">
-            <h1 style="font-family: 'Gasoek One', sans-serif;">게임 리뷰</h1>
-            <table class="table table-striped mt-3">
-                <thead>
-                    <tr>
-                        <th>타이틀</th>
-                        <th>별점</th>
-                        <th>작성일</th>
-                    </tr>
-                </thead>
+    <body style="font-family: 'Gowun Dodum', sans-serif;">
+        <!--NAV-->
+        <div class="container" style="padding-top: 2rem;">
+            <nav class="navbar navbar-expand-lg bg-transparent">
+                <div class="container-fluid" style="padding: 0;">
+                    <a class="navbar-brand" href="{% url 'home-index' %}">SEON's Game Review</a>
+                    <button class="btn btn-outline-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-justify" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/>
+                        </svg>
+                    </button>
+                </div>
+            </nav>
+        </div>
 
-                {% for review in object_list %}
-                    <tr onclick="location.href='{% url 'review-detail' review.pk %}'" style="cursor: pointer;">
-                        <td>{{review.title}}</td>
-                        <td>{% if review.rating == 1 %}
-                            <span class="star-rating" style="color: #ffe600; text-shadow: 0 0 3px black;">★☆☆☆☆</span>
-                        {% elif review.rating == 2 %}
-                            <span class="star-rating" style="color: #ffe600; text-shadow: 0 0 3px black">★★☆☆☆</span>
-                        {% elif review.rating == 3 %}
-                            <span class="star-rating" style="color: #ffe600; text-shadow: 0 0 3px black">★★★☆☆</span>
-                        {% elif review.rating == 4 %}
-                            <span class="star-rating" style="color: #ffe600; text-shadow: 0 0 3px black">★★★★☆</span>
-                        {% elif review.rating == 5 %}
-                            <span class="star-rating" style="color: #ffe600; text-shadow: 0 0 3px black">★★★★★</span>
-                        {% endif %}</td>
-                        <td>{{review.created_at|date:"Y/m/d"}}</td>
-                    </tr>
-                {% endfor %}
-            </table>
-            <a href="{% url 'review-new' %}" class="btn btn-primary">리뷰 작성하기</a>
+        <div class="offcanvas offcanvas-top" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
+            <div class="offcanvas-header p-3 mb-2 bg-dark text-white">
+                <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">HELLO</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <p>Try scrolling the rest of the page to see this option in action.</p>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <h3>게임 리뷰</h3>
+            <hr>
+
+            <div class="container text-center">
+                <div class="row row-cols-2 row-cols-lg-3 g-1 g-lg-3">
+                    {% for item in review_data %}
+                    <div class="col">
+                        <a href="{% url 'review-detail' item.review.pk %}"><img src="{{ item.thumbnail_url }}" class="img-thumbnail" alt="..."></a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <hr>
+            <a href="{% url 'review-new' %}" class="btn btn-outline-dark" style="border-style: dashed; width: fit-content;">리뷰 작성하기</a>
+            <br>
+            <br>
         </div>
     </body>
 </html>
