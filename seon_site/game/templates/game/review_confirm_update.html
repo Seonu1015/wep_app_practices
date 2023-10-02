@@ -11,12 +11,13 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
 
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+
     </head>
 
-    <body style="font-family: 'Gowun Dodum', sans-serif;">
+    <body>
         <div class="container mt-5">
             <h3>리뷰 수정</h3>
-            <!-- post를 쓰면 보안을 신경써라!!! -->
             <form method="post">
                 {% csrf_token %}
                 <table>

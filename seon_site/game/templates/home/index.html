@@ -14,9 +14,11 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
 
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+
     </head>
 
-    <body style="font-family: 'Gowun Dodum', sans-serif;">
+    <body>
         <!--NAV-->
         <div class="container" style="padding-top: 2rem;">
             <nav class="navbar navbar-expand-lg bg-transparent">
@@ -31,13 +33,15 @@
             </nav>
         </div>
 
+        <!--Offcanvas-->
         <div class="offcanvas offcanvas-top" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
             <div class="offcanvas-header p-3 mb-2 bg-dark text-white">
-                <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">HELLO</h5>
+                <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">MENU</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body">
-                <p>Try scrolling the rest of the page to see this option in action.</p>
+                <p><a href="{% url 'home-index' %}" class="link-dark link-offset-2 link-underline-opacity-0">HOME</a></p>
+                <p><a href="{% url 'review-list' %}" class="link-dark link-offset-2 link-underline-opacity-0">REVIEW</a></p>
             </div>
         </div>
 
