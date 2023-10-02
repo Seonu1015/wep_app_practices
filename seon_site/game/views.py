@@ -1,13 +1,11 @@
-from django.shortcuts import render, redirect
 from django.core.paginator import Paginator
+from django.shortcuts import render, redirect
 
 from django.views import View
 from django.core.paginator import Paginator
 from django.views.generic import ListView, DetailView
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from django.urls import reverse_lazy
-
-import logging
 
 from .models import Review, Comment
 from .forms import ReviewForm, CommentForm
@@ -20,9 +18,15 @@ class HomeListView(ListView):
 
     def get_queryset(self):
         return Review.objects.order_by('-created_at')[:3]
-    
+
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
+
+        comments = Comment.objects.order_by('-created_at')
+        page_number = self.request.GET.get('page', 1)
+        paginator = Paginator(comments, 3)
+        comments_page = paginator.get_page(page_number)
+        comment_form = CommentForm()
 
         review_data = []
         for review in context['review_data']:
@@ -31,6 +35,9 @@ class HomeListView(ListView):
             review_data.append({'review': review, 'thumbnail_url': thumbnail_url})
 
         context['review_data'] = review_data
+        context['comments_page'] = comments_page
+        context['comment_form'] = comment_form
+
         return context
 
 class ReviewListView(ListView):
@@ -78,9 +85,7 @@ class ReviewDeleteView(DeleteView):
 
 class CommentView(View):
     template_name = 'home/index.html'
-    comments_per_page = 5
-
-    logger = logging.getLogger(__name__)
+    comments_per_page = 3
 
     def get(self, request):
         comments = Comment.objects.order_by('-created_at')
@@ -95,7 +100,5 @@ class CommentView(View):
         comment_form = CommentForm(request.POST)
         if comment_form.is_valid():
             comment_form.save()
-
-        self.logger.debug('Posted comment data: %s', request.POST)
         
         return redirect('home-index')

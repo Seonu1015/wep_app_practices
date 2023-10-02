@@ -3,3 +3,8 @@ body {
     margin: 0 auto;
     font-family: 'Gowun Dodum', sans-serif;
 }
+
+.comment {
+    border: 1px dashed #aaaaaa;
+    padding: 0.5rem;
+}
