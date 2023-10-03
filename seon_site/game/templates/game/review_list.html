@@ -48,12 +48,12 @@
     <div class="offcanvas offcanvas-top" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions"
         aria-labelledby="offcanvasWithBothOptionsLabel">
         <div class="offcanvas-header p-3 mb-2 bg-dark text-white">
-            <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">HELLO</h5>
+            <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">MENU</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-            <p>HOME</p>
-            <p>REVIEW</p>
+            <p><a href="{% url 'home-index' %}" class="link-dark link-offset-2 link-underline-opacity-0">HOME</a></p>
+            <p><a href="{% url 'review-list' %}" class="link-dark link-offset-2 link-underline-opacity-0">REVIEW</a></p>
         </div>
     </div>
 

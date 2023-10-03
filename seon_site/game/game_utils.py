@@ -1,10 +1,13 @@
+import urllib.request
 import requests
+import json
 
 def get_game_id(title):
     base_url = "https://api.steampowered.com/ISteamApps/GetAppList/v2"
-    
-    response = requests.get(base_url)
-    data = response.json()
+
+    # URL에서 JSON 데이터를 직접 읽어옴
+    with urllib.request.urlopen(base_url) as url:
+        data = json.loads(url.read().decode('utf-8'))
 
     game_list = data["applist"]["apps"]
 
