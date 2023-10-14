@@ -1,0 +1,46 @@
+<nav class="navbar bg-body-tertiary fixed-top bg-dark" data-bs-theme="dark">
+    <div class="container-fluid">
+        <!--로고-->
+        <a class="navbar-brand" href="/">SEON</a>
+
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+            aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="offcanvas offcanvas-end w-25" tabindex="-1" id="offcanvasNavbar"
+            aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasNavbarLabel">SEON</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                    <!--Home-->
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">HOME</a>
+                    </li>
+                    <hr>
+                    <!--주제-->
+                    <p class="d-inline-flex mb-0">
+                        <a class="link-light link-offset-2 link-underline link-underline-opacity-0"
+                            data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false"
+                            aria-controls="collapseExample">
+                            TOPIC
+                        </a>
+                    </p>
+                    <div class="collapse" id="collapseExample">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">first item</li>
+                            <li class="list-group-item">second item</li>
+                            <li class="list-group-item">third item</li>
+                            <li class="list-group-item">fourth item</li>
+                            <li class="list-group-item">fifth item</li>
+                        </ul>
+                    </div>
+                    <hr>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>

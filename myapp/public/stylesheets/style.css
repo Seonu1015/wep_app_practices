@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
+
+* {
+  font-family: 'Orbit', sans-serif;
+  color: #B8C5C9;
+}
+
+a {
+  color: #B8C5C9;
+}
+
+body {
+  margin-top: 100px !important;
+}
