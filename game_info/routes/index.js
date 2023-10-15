@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* 홈페이지 */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'MindMesh', pageName: 'home/home.ejs'});
+  res.render('index', { title: 'Seon', pageName: 'home/home.ejs'});
 });
 
 
