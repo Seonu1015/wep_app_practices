@@ -2,13 +2,20 @@
 
 * {
   font-family: 'Orbit', sans-serif;
-  color: #B8C5C9;
-}
-
-a {
-  color: #B8C5C9;
 }
 
 body {
   margin-top: 100px !important;
 }
+
+  .carousel-control-prev, .carousel-control-next {
+      filter: invert(1);
+  }
+
+  .ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }

@@ -1,0 +1,33 @@
+<div>
+    <div class="card" style="height: 334px;">
+        <div class="card-body">
+          <h5 class="card-title">공지사항</h5>
+          <hr>
+          <div id="card_announce"></div>
+        </div>
+      </div>
+</div>
+
+<script id="temp_announce" type="x-handlebars-template">
+    {{#each notices}}
+        <p class="ellipsis p-0"><a class="link-light link-offset-2 link-underline link-underline-opacity-0" href="{{Link}}" target="_blank">{{Title}}</a></p>
+    {{/each}}
+</script>
+
+<script>
+    getAnnounce();
+
+    function getAnnounce() {
+        $.ajax({
+            type: "get",
+            url: "https://developer-lostark.game.onstove.com/news/notices?type=%EA%B3%B5%EC%A7%80",
+            headers: { "authorization": "API_KEY" },
+            success: function (data) {
+                console.log(data);
+                const temp = Handlebars.compile($("#temp_announce").html());
+                const slicedData = { notices: data.slice(0, 6) }; // 최신 공지 4개만 가져오기
+                $("#card_announce").html(temp(slicedData));
+            }
+        });
+    }
+</script>

@@ -1,0 +1,52 @@
+<div>
+    <!--Carousel-->
+    <div id="carouselExample" class="carousel slide" style="width: 700px; height: 330px;">
+        <div class="carousel-inner" id="div_events"></div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+
+<script id="temp_events" type="x-handlebars-template">
+    {{#each .}}
+        <div class="carousel-item {{#ifCond @index '===' 0}}active{{/ifCond}}">
+            <a class="link-light link-offset-2 link-underline link-underline-opacity-0" href="{{Link}}" target="_blank">
+                <img src="{{Thumbnail}}" class="d-block w-100" alt="...">
+            </a>
+        </div>
+    {{/each}}
+</script>
+
+<script>
+    Handlebars.registerHelper('ifCond', function (v1, operator, v2, options) {
+        switch (operator) {
+            case '===':
+                return v1 === v2 ? options.fn(this) : options.inverse(this);
+            default:
+                return options.inverse(this);
+        }
+    });
+</script>
+
+<script>
+    getEvent();
+
+    function getEvent() {
+        $.ajax({
+            type: "get",
+            url: "https://developer-lostark.game.onstove.com/news/events",
+            headers: { "authorization": "API_KEY" },
+            success: function (data) {
+                console.log(data);
+                const temp = Handlebars.compile($("#temp_events").html());
+                $("#div_events").html(temp(data));
+            }
+        });
+    }
+</script>

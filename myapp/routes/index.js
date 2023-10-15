@@ -6,4 +6,5 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'MindMesh', pageName: 'home/home.ejs'});
 });
 
+
 module.exports = router;
