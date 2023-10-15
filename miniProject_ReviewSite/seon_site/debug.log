@@ -1,0 +1,1594 @@
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\seon_site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704926
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704926
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 200 4580
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 200 4580
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 200 4580
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 200 4580
+Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'add-comment' not found. 'add-comment' is not a valid view function or pattern name.
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=374320&l=korean HTTP/1.1" 200 4580
+Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'add-comment' not found. 'add-comment' is not a valid view function or pattern name.
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 None
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 400 24
+Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py", line 30, in get_context_data
+    thumbnail_url = get_game_image(app_id)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\game_utils.py", line 48, in get_game_image
+    game_image = data[str(app_id)]["data"]["header_image"]
+                 ~~~~^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 400 24
+Internal Server Error: /reviews/
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py", line 47, in get_context_data
+    thumbnail_url = get_game_image(app_id)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\game_utils.py", line 48, in get_game_image
+    game_image = data[str(app_id)]["data"]["header_image"]
+                 ~~~~^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reviews/1
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Not Found: /review/4/
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 400 24
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=None&l=korean HTTP/1.1" 400 24
+Internal Server Error: /review/6/
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\detail.py", line 109, in get
+    context = self.get_context_data(object=self.object)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py", line 60, in get_context_data
+    context['detail_url'] = get_game_detail(app_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\game_utils.py", line 37, in get_game_detail
+    details = data[str(app_id)]["data"]["short_description"]
+              ~~~~^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699297
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Method Not Allowed (POST): /
+Method Not Allowed: /
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Method Not Allowed (POST): /
+Method Not Allowed: /
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707475
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2707650
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Method Not Allowed (POST): /
+Method Not Allowed: /
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Method Not Allowed (POST): /
+Method Not Allowed: /
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed (POST): /
+Method Not Allowed: /
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Posted comment data: <QueryDict: {'csrfmiddlewaretoken': ['6Pcbtzkbd7FRjFzCexm7zbQLZkzHQKD8ZvC9EeNwnKvcZmY1ovw7g9iBNIx1bwkc'], 'author': ['SEON'], 'text': ['왜 안되는거야아아아아ㅏㅏㅏㅏㅏㅏ']}>
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Posted comment data: <QueryDict: {'csrfmiddlewaretoken': ['6Pcbtzkbd7FRjFzCexm7zbQLZkzHQKD8ZvC9EeNwnKvcZmY1ovw7g9iBNIx1bwkc'], 'author': ['SEON'], 'text': ['하나씩 다시 해보자']}>
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4592
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2699345
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Not Found: /add-comment/
+Not Found: /add-comment/
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\seon_site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2704658
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Internal Server Error: /add-comment/
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py", line 92, in get
+    return render(request, self.template_name, {'comments_page': comments_page, 'comment_form': comment_form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\paginator.py", line 201, in previous_page_number
+    return self.paginator.validate_number(self.number - 1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\paginator.py", line 52, in validate_number
+    raise EmptyPage(_("That page number is less than 1"))
+django.core.paginator.EmptyPage: That page number is less than 1
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 None
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'add-comment' not found. 'add-comment' is not a valid view function or pattern name.
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed (POST): /
+Method Not Allowed: /
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /add-comment/
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed (POST): /
+Method Not Allowed: /
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Method Not Allowed (POST): /
+Method Not Allowed: /
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Internal Server Error: /add-comment/
+Traceback (most recent call last):
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py", line 104, in post
+    self.logger.debug('Posted comment data: %s', request.POST)
+    ^^^^^^^^^^^
+AttributeError: 'CommentView' object has no attribute 'logger'
+E:\Program Files\vscode_git\miniProject_ReviewSite\seon_site\game\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2708882
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 None
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2712541
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTPS connection (1): api.steampowered.com:443
+https://api.steampowered.com:443 "GET /ISteamApps/GetAppList/v2 HTTP/1.1" 200 2712541
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5285
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Not Found: /favicon.ico
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4593
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4594
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4594
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1222690&l=korean HTTP/1.1" 200 5568
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=424840&l=korean HTTP/1.1" 200 4302
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1147560&l=korean HTTP/1.1" 200 4589
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4594
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1627720&l=korean HTTP/1.1" 200 4594
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=1245620&l=korean HTTP/1.1" 200 5398
+Starting new HTTP connection (1): store.steampowered.com:80
+http://store.steampowered.com:80 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 302 138
+Starting new HTTPS connection (1): store.steampowered.com:443
+https://store.steampowered.com:443 "GET /api/appdetails?appids=377160&l=korean HTTP/1.1" 200 5284
