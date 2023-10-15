@@ -4,9 +4,8 @@
         <a class="navbar-brand" href="/">SEON</a>
 
         <!--검색-->
-        <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
+        <form name="frm" class="px-5 flex-sm-fill" role="search">
+            <input name="query" class="form-control" type="search" placeholder="캐릭터명" aria-label="Search">
         </form>
 
         <!--오프캔버스-->
@@ -53,3 +52,29 @@
         </div>
     </div>
 </nav>
+
+<script>
+    query = "";
+    
+    $("form[name='frm']").on("keypress", function(e) {
+        if (e.which === 13) {
+            e.preventDefault();
+            query = $(this).find("input[name='query']").val();
+            console.log(query);
+            getCharProfiles();
+        }
+    });
+
+    const base = "https://developer-lostark.game.onstove.com/armories/characters/"
+
+    function getCharProfiles() {
+        $.ajax({
+            type:"get",
+            url: base + query + "/profiles",
+            headers: {"authorization": "API_KEY"},
+            success: function(data) {
+                console.log(data);
+            }
+        });
+    }
+</script>
